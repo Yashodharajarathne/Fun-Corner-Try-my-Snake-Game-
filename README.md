@@ -31,11 +31,11 @@
 
 ---
 
-##⚡ Installation
+## ⚡ Installation
 
 1. **Clone the repository** to your local machine:
    ```bash
-    https://github.com/Yashodharajarathne/Simple-game.git
+    https://github.com/Yashodharajarathne/Fun-Corner-Try-my-Snake-Game-.git
 
 ### Play and enjoy! Have fun 🐍🎮
 
