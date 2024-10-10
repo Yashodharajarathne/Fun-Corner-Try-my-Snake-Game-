@@ -1,7 +1,8 @@
 # 🐍 Fun Corner: Try My Snake Game!
 
 <!-- Banner Image with Resizing -->
-<img src="https://github.com/user-attachments/assets/9f392bc5-e76d-4075-99f1-62fb1f8d2e13" alt="Screenshot" width="300" />
+<img src="https://github.com/user-attachments/assets/5d0b9671-bee2-4d8e-b98e-47ca03688654" alt="Screenshot" width="300" />
+
 
 
 
